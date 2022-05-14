@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="51"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="24" HistoryIndex="23">
+      <Position1>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="16" Column="20"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="3" Column="25"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="12" Column="20"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="4" Column="29"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="5" Column="22"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="12" Column="25"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="4" Column="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="12" Column="19"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="4" Column="26"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="19" Column="10"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="6"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="8"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="9"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="10"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="11"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="16" Column="20"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="19" Column="17"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="18" Column="10"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="4" Column="13"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="11" Column="18"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="3" Column="13"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="16" Column="24"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="12" Column="88"/>
+      </Position23>
+      <Position24>
+        <Filename Value="ImpuestosCompraExterior.lpr"/>
+        <Caret Line="18" Column="23"/>
+      </Position24>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
