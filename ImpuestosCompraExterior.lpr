@@ -17,7 +17,7 @@ begin
     servicio:=costo_conversion;
     writeln ('La conversion seria: ', servicio:1:2, ' pesos');
   end;
-
+  //Dejo un comentario a ver que pasa
   servicios_digitales:=servicio*0.35;
   write('Impuesto a servicios digitales son: ', servicios_digitales:1:2, ' pesos');
   writeln();
